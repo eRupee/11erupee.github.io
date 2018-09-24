@@ -960,6 +960,6 @@
   ],
   "defaultPair": {
     "token": "e₹",
-    "base": "ETH"
+    "base": "e₹"
   }
 }
